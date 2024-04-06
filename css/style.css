@@ -6,3 +6,9 @@ body {
 .menu{
     color: blue;
 }
+
+
+#cabecera{
+    background-color: blueviolet;
+    color: #fff;
+}
